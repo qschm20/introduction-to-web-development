@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-radius: border-box;
+}
+.id_container{
+    max-width: 400px;
+    height: 400px;
+    /* background-color: lightblue; */
+    margin: auto;
+}
+header{
+    background-color: lightblue;
+    padding: 1px;
+    margin: 20px;
+    text-align: center;
+    border: 1px solid black;
+}
+footer{
+    text-align: center;
+}
+
+section.details{
+    /* background-color: lightcoral; */
+    padding: 1px;
+    margin: 20px;
+    text-align: center;
+}
+.img{
+
+    text-align: center;
+    width: 100%;
+    /* height: 100%; */
+    object-fit: cover;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times,;
+    padding: 1px;
+    margin: 20px;
+}
+footer{
+    background-color: lightblue;
+    padding: 1px;
+    margin: 20px;
+    text-align: center;
+}
+main{
+    background-color: rgb(255, 255, 255);
+    
+}
