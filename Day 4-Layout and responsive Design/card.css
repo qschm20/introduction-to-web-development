@@ -12,7 +12,8 @@
 header{
     background-color: lightblue;
     padding: 1px;
-    margin: 20px;
+    /* margin: 20px; */
+    margin-bottom: 20px;
     text-align: center;
     border: 1px solid black;
 }
