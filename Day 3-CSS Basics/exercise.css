@@ -3,6 +3,7 @@ header{
     padding: 1px;
     margin: 20px;
     text-align: center;
+    border: 1px solid black;
 }
 footer{
     text-align: center;
@@ -14,20 +15,31 @@ section.details{
     margin: 20px;
     text-align: center;
 }
-section.img{
+.img{
 
-    margin: 20px;
     width: 100%;
+    height: 100%;
+}
+.img2{
+
+    width: 100%;
+    height: 250px;
     text-align: center;
 }
 
 body{
-    background-color: lightblue;
+    background-color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times,;
+    padding: 1px;
+    margin: 20px;
 }
 footer{
     background-color: lightblue;
     padding: 1px;
     margin: 20px;
     text-align: center;
+}
+main{
+    background-color: rgb(255, 255, 255);
+    margin: 20px;
 }
